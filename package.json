@@ -1,0 +1,15 @@
+{
+  "name": "goodgrounds-nyc",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "The best coffee shops in NYC, by neighborhood and need.",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "ingest": "node scripts/ingest.mjs",
+    "ingest:manhattan": "node scripts/ingest.mjs --boro=Manhattan",
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/build.mjs --preview",
+    "dev": "node scripts/build.mjs && npx --yes serve dist"
+  }
+}

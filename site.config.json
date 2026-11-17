@@ -1,0 +1,12 @@
+{
+  "siteName": "Good Grounds NYC",
+  "siteUrl": "https://goodgrounds.nyc",
+  "tagline": "The best coffee shops in NYC, sorted by what you actually need.",
+  "newsletter": {
+    "enabled": true,
+    "subscriberCount": null,
+    "note": "Set subscriberCount to your REAL list size (e.g. 2000) and the form will say 'Join 2,000+ NYC coffee lovers'. Leave null to show 'Be one of the first'."
+  },
+  "reportFormUrl": "",
+  "chains": ["starbucks","dunkin","pret a manger","blank street","bluestone lane","gregorys","gregory's","tim hortons","coffee bean","peet","luckin","joe & the juice","joe and the juice","le pain quotidien","paris baguette","tous les jours","kung fu tea","gong cha","chatime","vivi bubble","tiger sugar","coco fresh","ten ren","dutch bros","krispy kreme","mcdonald","au bon pain","cafe china","hudson news"]
+}

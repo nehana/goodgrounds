@@ -1,0 +1,1926 @@
+[
+ {
+  "name": "Abraço",
+  "hood": "East Village",
+  "boro": "Manhattan",
+  "c": 5,
+  "w": 0,
+  "o": 0,
+  "l": 0,
+  "s": 0,
+  "cr": 3,
+  "f": 2,
+  "p": 1,
+  "tags": [
+   "classic",
+   "espresso",
+   "quick"
+  ],
+  "sum": "Tiny, beloved espresso bar that coffee people make pilgrimages to. Order, sip at the counter or on the sidewalk, go.",
+  "love": [
+   "Some of the best espresso in the city",
+   "The olive oil cake is famous",
+   "Warm, chatty baristas"
+  ],
+  "watch": [
+   "Basically no seating",
+   "No wifi, no laptops",
+   "Lines spill onto the sidewalk on weekends"
+  ],
+  "drink": "Espresso + olive oil cake",
+  "b": 0,
+  "amb": [
+   "tiny",
+   "bustling",
+   "classic"
+  ],
+  "n": 2,
+  "reviewed": true
+ },
+ {
+  "name": "La Cabra",
+  "hood": "SoHo",
+  "boro": "Manhattan",
+  "c": 5,
+  "w": 0,
+  "o": 0,
+  "l": 0,
+  "s": 1,
+  "cr": 3,
+  "f": 2,
+  "p": 2,
+  "tags": [
+   "espresso",
+   "pastry",
+   "pretty"
+  ],
+  "sum": "Copenhagen roaster's NYC bakery-café. Light, precise coffee and cardamom buns people line up for.",
+  "love": [
+   "Exceptional light-roast filter and espresso",
+   "Cardamom buns sell out",
+   "Beautiful Scandinavian interior"
+  ],
+  "watch": [
+   "Long lines, especially weekend mornings",
+   "Very limited seating",
+   "Not a place to work"
+  ],
+  "drink": "Filter coffee + cardamom bun",
+  "b": null,
+  "amb": [
+   "minimalist",
+   "bright",
+   "scandinavian"
+  ],
+  "n": 2,
+  "reviewed": true
+ },
+ {
+  "name": "Coffee Project NY",
+  "hood": "East Village",
+  "boro": "Manhattan",
+  "c": 4,
+  "w": 1,
+  "o": 0,
+  "l": 0,
+  "s": 0,
+  "cr": 3,
+  "f": 1,
+  "p": 2,
+  "tags": [
+   "quick",
+   "specialty-drinks"
+  ],
+  "sum": "The original tiny shop, famous for its deconstructed latte flight and creative signature drinks.",
+  "love": [
+   "Deconstructed latte is a fun, giftable experience",
+   "Award-winning baristas",
+   "Creative seasonal drinks"
+  ],
+  "watch": [
+   "Shoebox-sized, few or no seats",
+   "Lines on weekends",
+   "Pricey for the signature drinks"
+  ],
+  "drink": "Deconstructed latte flight",
+  "b": null,
+  "amb": [
+   "tiny",
+   "quirky"
+  ],
+  "n": 2,
+  "reviewed": true
+ },
+ {
+  "name": "Coffee Project NY (Chelsea)",
+  "hood": "Chelsea",
+  "boro": "Manhattan",
+  "c": 4,
+  "w": 2,
+  "o": 2,
+  "l": 2,
+  "s": 2,
+  "cr": 2,
+  "f": 2,
+  "p": 2,
+  "tags": [
+   "specialty-drinks",
+   "work"
+  ],
+  "sum": "The roomier sibling of the East Village original, with the same signature drinks and space to open a laptop.",
+  "love": [
+   "Much more seating than the original",
+   "Same creative drink menu",
+   "Laptop-friendly on weekdays"
+  ],
+  "watch": [
+   "Gets busy at lunch",
+   "Signature drinks run pricey"
+  ],
+  "drink": "Deconstructed latte flight",
+  "b": null,
+  "amb": [
+   "modern",
+   "bright"
+  ],
+  "n": 2,
+  "reviewed": true
+ },
+ {
+  "name": "Variety Coffee (Chelsea)",
+  "hood": "Chelsea",
+  "boro": "Manhattan",
+  "c": 3,
+  "w": 2,
+  "o": 2,
+  "l": 2,
+  "s": 2,
+  "cr": 2,
+  "f": 1,
+  "p": 1,
+  "tags": [
+   "value",
+   "work"
+  ],
+  "sum": "Reliable, affordable neighborhood roaster where laptops are welcome and nobody rushes you.",
+  "love": [
+   "Good-value drip and lattes",
+   "Laptop crowd is the norm",
+   "Friendly, low-key vibe"
+  ],
+  "watch": [
+   "Coffee is solid, not exceptional",
+   "Wifi slows at peak hours",
+   "Limited food"
+  ],
+  "drink": null,
+  "b": null,
+  "amb": [
+   "casual",
+   "cozy"
+  ],
+  "n": 2,
+  "reviewed": true
+ },
+ {
+  "name": "Seven Grams Caffe",
+  "hood": "Chelsea",
+  "boro": "Manhattan",
+  "c": 3,
+  "w": 3,
+  "o": 2,
+  "l": 2,
+  "s": 2,
+  "cr": 2,
+  "f": 2,
+  "p": 2,
+  "tags": [
+   "work"
+  ],
+  "sum": "Clean, bright café that remote workers cite for strong wifi and space to settle in.",
+  "love": [
+   "Fast, reliable wifi",
+   "Comfortable for long sessions",
+   "Decent pastries and light bites"
+  ],
+  "watch": [
+   "Outlet seats go fast",
+   "Coffee is good but not a destination"
+  ],
+  "drink": null,
+  "b": null,
+  "amb": [
+   "bright",
+   "clean",
+   "modern"
+  ],
+  "n": 1,
+  "reviewed": true
+ },
+ {
+  "name": "Felix Roasting Co.",
+  "hood": "NoMad",
+  "boro": "Manhattan",
+  "c": 4,
+  "w": 1,
+  "o": 1,
+  "l": 1,
+  "s": 2,
+  "cr": 3,
+  "f": 2,
+  "p": 3,
+  "tags": [
+   "date",
+   "pretty",
+   "specialty-drinks"
+  ],
+  "sum": "Lavishly designed café with dessert-like signature lattes. Half coffee shop, half photo shoot.",
+  "love": [
+   "Stunning, over-the-top interior",
+   "Creative drinks (the s'mores latte gets raves)",
+   "Good espresso underneath the theatrics"
+  ],
+  "watch": [
+   "Expensive",
+   "Crowded and loud at peak times",
+   "Not ideal for laptop work"
+  ],
+  "drink": "S'mores latte",
+  "b": 1,
+  "amb": [
+   "opulent",
+   "glam",
+   "design-forward"
+  ],
+  "n": 3,
+  "reviewed": true
+ },
+ {
+  "name": "Think Coffee (Mercer St)",
+  "hood": "Greenwich Village",
+  "boro": "Manhattan",
+  "c": 3,
+  "w": 2,
+  "o": 2,
+  "l": 2,
+  "s": 3,
+  "cr": 3,
+  "f": 2,
+  "p": 1,
+  "tags": [
+   "study",
+   "value",
+   "work"
+  ],
+  "sum": "Big, NYU-adjacent workhorse café with long tables and a mission-driven sourcing story.",
+  "love": [
+   "Tons of seating",
+   "Laptops fully welcome",
+   "Affordable"
+  ],
+  "watch": [
+   "Packed with students during the semester",
+   "Can be loud",
+   "Wifi gets congested at peak"
+  ],
+  "drink": null,
+  "b": 1,
+  "amb": [
+   "roomy",
+   "student-y",
+   "casual"
+  ],
+  "n": 3,
+  "reviewed": true
+ },
+ {
+  "name": "Stumptown (Greenwich Village)",
+  "hood": "Greenwich Village",
+  "boro": "Manhattan",
+  "c": 4,
+  "w": 1,
+  "o": 1,
+  "l": 1,
+  "s": 2,
+  "cr": 2,
+  "f": 1,
+  "p": 2,
+  "tags": [
+   "classic"
+  ],
+  "sum": "Portland roaster's West 8th St café: dependable espresso and a classic third-wave room.",
+  "love": [
+   "Consistent, quality espresso",
+   "Cold brew is a staple",
+   "Central location"
+  ],
+  "watch": [
+   "Limited outlets",
+   "Wifi reported as spotty",
+   "Small food selection"
+  ],
+  "drink": "Cold brew",
+  "b": null,
+  "amb": [
+   "classic",
+   "wood-paneled"
+  ],
+  "n": 2,
+  "reviewed": true
+ },
+ {
+  "name": "Café Integral",
+  "hood": "Nolita",
+  "boro": "Manhattan",
+  "c": 4,
+  "w": 0,
+  "o": 0,
+  "l": 0,
+  "s": 1,
+  "cr": 2,
+  "f": 1,
+  "p": 2,
+  "tags": [
+   "espresso",
+   "quick"
+  ],
+  "sum": "Small café focused on Nicaraguan coffee, from a founder with family roots in coffee farming.",
+  "love": [
+   "Distinctive single-origin focus",
+   "Thoughtful, friendly service",
+   "Calm compared to SoHo spots nearby"
+  ],
+  "watch": [
+   "Small, not for working",
+   "Minimal food"
+  ],
+  "drink": null,
+  "b": null,
+  "amb": [
+   "minimal",
+   "calm"
+  ],
+  "n": 1,
+  "reviewed": true
+ },
+ {
+  "name": "Ground Support",
+  "hood": "SoHo",
+  "boro": "Manhattan",
+  "c": 3,
+  "w": 2,
+  "o": 1,
+  "l": 1,
+  "s": 2,
+  "cr": 3,
+  "f": 2,
+  "p": 2,
+  "tags": [
+   "outdoor",
+   "people-watching"
+  ],
+  "sum": "SoHo staple on West Broadway with a sidewalk bench made for people-watching.",
+  "love": [
+   "Great people-watching",
+   "Solid sandwiches and pastries",
+   "Classic downtown vibe"
+  ],
+  "watch": [
+   "Crowded weekends",
+   "Few outlets",
+   "Shopping-crowd noise"
+  ],
+  "drink": null,
+  "b": null,
+  "amb": [
+   "classic",
+   "sidewalk"
+  ],
+  "n": 2,
+  "reviewed": true
+ },
+ {
+  "name": "Maman (SoHo)",
+  "hood": "SoHo",
+  "boro": "Manhattan",
+  "c": 3,
+  "w": 1,
+  "o": 1,
+  "l": 1,
+  "s": 2,
+  "cr": 3,
+  "f": 3,
+  "p": 2,
+  "tags": [
+   "brunch",
+   "date",
+   "pretty"
+  ],
+  "sum": "French-country café with a full food menu and a famous nutty chocolate chip cookie.",
+  "love": [
+   "Charming, Instagrammable interior",
+   "Real breakfast and lunch menu",
+   "The cookie lives up to the hype"
+  ],
+  "watch": [
+   "Weekend waits",
+   "Coffee is fine, not the main event",
+   "Not a laptop spot at brunch"
+  ],
+  "drink": "Latte + nutty chocolate chip cookie",
+  "b": 1,
+  "amb": [
+   "french-country",
+   "cozy",
+   "rustic"
+  ],
+  "n": 2,
+  "reviewed": true
+ },
+ {
+  "name": "Caffe Reggio",
+  "hood": "Greenwich Village",
+  "boro": "Manhattan",
+  "c": 2,
+  "w": 0,
+  "o": 0,
+  "l": 0,
+  "s": 2,
+  "cr": 2,
+  "f": 2,
+  "p": 2,
+  "tags": [
+   "date",
+   "historic",
+   "late"
+  ],
+  "sum": "Opened in 1927, this old-world MacDougal St café is said to have served America's first cappuccino.",
+  "love": [
+   "Unbeatable old-world atmosphere",
+   "Open late, great for a post-dinner date",
+   "Real piece of Village history"
+  ],
+  "watch": [
+   "Coffee itself is average",
+   "No wifi",
+   "Can feel touristy"
+  ],
+  "drink": "Cappuccino",
+  "b": 1,
+  "amb": [
+   "historic",
+   "old-world",
+   "candlelit"
+  ],
+  "n": 2,
+  "reviewed": true
+ },
+ {
+  "name": "Partners Coffee (West Village)",
+  "hood": "West Village",
+  "boro": "Manhattan",
+  "c": 4,
+  "w": null,
+  "o": null,
+  "l": 1,
+  "s": 1,
+  "cr": 2,
+  "f": 2,
+  "p": 2,
+  "tags": [
+   "espresso"
+  ],
+  "sum": "Brooklyn roaster's cozy West Village café, with seasonal drinks and quality espresso.",
+  "love": [
+   "Excellent house espresso",
+   "Cozy, neighborhood feel",
+   "Good seasonal menu"
+  ],
+  "watch": [
+   "Small space",
+   "Wifi and outlets unverified"
+  ],
+  "drink": null,
+  "b": null,
+  "amb": [
+   "cozy",
+   "neighborhood"
+  ],
+  "n": 2,
+  "reviewed": true
+ },
+ {
+  "name": "787 Coffee (West Village)",
+  "hood": "West Village",
+  "boro": "Manhattan",
+  "c": 4,
+  "w": 3,
+  "o": 2,
+  "l": 2,
+  "s": 2,
+  "cr": 2,
+  "f": 2,
+  "p": 1,
+  "tags": [
+   "open-early",
+   "value",
+   "work"
+  ],
+  "sum": "Puerto Rican coffee grown on the company's own farm, at friendly prices, with free wifi throughout.",
+  "love": [
+   "Farm-to-cup Puerto Rican coffee",
+   "Free wifi and laptop-friendly",
+   "Opens at 7am, well priced"
+  ],
+  "watch": [
+   "Popular seats fill up mid-morning",
+   "Locations vary in size"
+  ],
+  "drink": null,
+  "b": null,
+  "amb": [
+   "bright",
+   "friendly"
+  ],
+  "n": 2,
+  "reviewed": true
+ },
+ {
+  "name": "Fasan Coffee",
+  "hood": "Lower East Side",
+  "boro": "Manhattan",
+  "c": 4,
+  "w": null,
+  "o": null,
+  "l": null,
+  "s": 1,
+  "cr": 2,
+  "f": 2,
+  "p": 2,
+  "tags": [
+   "people-watching",
+   "pretty"
+  ],
+  "sum": "LES café with thrift-shop charm and big people-watching energy.",
+  "love": [
+   "Quirky, vintage-style space",
+   "Strong espresso",
+   "Great for a quick hang"
+  ],
+  "watch": [
+   "Amenities unverified",
+   "Small"
+  ],
+  "drink": null,
+  "b": null,
+  "amb": [
+   "vintage",
+   "quirky"
+  ],
+  "n": 2,
+  "reviewed": true
+ },
+ {
+  "name": "After Eden",
+  "hood": "Lower East Side",
+  "boro": "Manhattan",
+  "c": 4,
+  "w": null,
+  "o": null,
+  "l": null,
+  "s": 1,
+  "cr": 2,
+  "f": 2,
+  "p": 2,
+  "tags": [
+   "asian",
+   "specialty-drinks",
+   "vietnamese"
+  ],
+  "sum": "Vietnamese coffee shop on the LES. Think phin drip, coconut and egg coffees.",
+  "love": [
+   "Standout Vietnamese coffee drinks",
+   "Something you can't get at a typical café",
+   "Friendly service"
+  ],
+  "watch": [
+   "Amenities unverified",
+   "Small space"
+  ],
+  "drink": "Vietnamese egg coffee",
+  "b": null,
+  "amb": [
+   "cozy"
+  ],
+  "n": 2,
+  "reviewed": true
+ },
+ {
+  "name": "Ludlow Coffee Supply",
+  "hood": "Lower East Side",
+  "boro": "Manhattan",
+  "c": 3,
+  "w": 2,
+  "o": 2,
+  "l": 2,
+  "s": 2,
+  "cr": 2,
+  "f": 1,
+  "p": 1,
+  "tags": [
+   "value",
+   "work"
+  ],
+  "sum": "Easygoing LES spot with room to sit and a laid-back, creative crowd.",
+  "love": [
+   "Relaxed and unpretentious",
+   "Good for an hour or two of work",
+   "Fair prices"
+  ],
+  "watch": [
+   "Basic food",
+   "Wifi speed varies"
+  ],
+  "drink": null,
+  "b": null,
+  "amb": [
+   "laid-back",
+   "creative"
+  ],
+  "n": 2,
+  "reviewed": true
+ },
+ {
+  "name": "Culture Espresso",
+  "hood": "Midtown",
+  "boro": "Manhattan",
+  "c": 4,
+  "w": 1,
+  "o": 1,
+  "l": 1,
+  "s": 1,
+  "cr": 3,
+  "f": 2,
+  "p": 2,
+  "tags": [
+   "cookies",
+   "espresso"
+  ],
+  "sum": "Midtown's go-to for real coffee near Bryant Park, with famous chocolate chip cookies.",
+  "love": [
+   "Best coffee in a coffee-desert area",
+   "Excellent cookies",
+   "Fast, efficient line"
+  ],
+  "watch": [
+   "Packed at morning and lunch rush",
+   "Few seats",
+   "Not for long work sessions"
+  ],
+  "drink": "Latte + chocolate chip cookie",
+  "b": null,
+  "amb": [
+   "bustling",
+   "no-frills"
+  ],
+  "n": 3,
+  "reviewed": true
+ },
+ {
+  "name": "Bibble & Sip",
+  "hood": "Hell's Kitchen",
+  "boro": "Manhattan",
+  "c": 3,
+  "w": 1,
+  "o": 0,
+  "l": 0,
+  "s": 1,
+  "cr": 3,
+  "f": 2,
+  "p": 1,
+  "tags": [
+   "asian",
+   "dessert",
+   "matcha",
+   "quick"
+  ],
+  "sum": "Tiny bakery-café known for matcha drinks and cream puffs, near the Theater District.",
+  "love": [
+   "Great matcha and Asian-inspired flavors",
+   "Cream puffs are a hit",
+   "Very reasonable prices"
+  ],
+  "watch": [
+   "Very crowded, almost always",
+   "Barely any seating",
+   "Not for working"
+  ],
+  "drink": "Lavender earl grey latte or matcha latte",
+  "b": null,
+  "amb": [
+   "tiny",
+   "cute"
+  ],
+  "n": 3,
+  "reviewed": true
+ },
+ {
+  "name": "Black Fox Coffee (FiDi)",
+  "hood": "Financial District",
+  "boro": "Manhattan",
+  "c": 4,
+  "w": 2,
+  "o": 1,
+  "l": 1,
+  "s": 2,
+  "cr": 2,
+  "f": 2,
+  "p": 2,
+  "tags": [
+   "espresso"
+  ],
+  "sum": "Polished Financial District café rotating guest roasters, a rare great cup downtown.",
+  "love": [
+   "Rotating specialty roasters",
+   "Sleek, calm interior",
+   "Good breakfast options"
+  ],
+  "watch": [
+   "Office-crowd rush 8–9am",
+   "Few outlets"
+  ],
+  "drink": null,
+  "b": null,
+  "amb": [
+   "sleek",
+   "modern"
+  ],
+  "n": 2,
+  "reviewed": true
+ },
+ {
+  "name": "Birch Coffee (Flatiron)",
+  "hood": "Flatiron",
+  "boro": "Manhattan",
+  "c": 3,
+  "w": 2,
+  "o": 2,
+  "l": 2,
+  "s": 2,
+  "cr": 2,
+  "f": 2,
+  "p": 2,
+  "tags": [
+   "work"
+  ],
+  "sum": "Long-running local chain with a homey feel and a book-lined vibe at its original Flatiron spot.",
+  "love": [
+   "Comfortable, cozy seating",
+   "Laptop-friendly",
+   "Consistent house roast"
+  ],
+  "watch": [
+   "Can get warm and stuffy",
+   "Seats scarce at lunch"
+  ],
+  "drink": null,
+  "b": null,
+  "amb": [
+   "cozy",
+   "bookish"
+  ],
+  "n": 2,
+  "reviewed": true
+ },
+ {
+  "name": "Irving Farm (Upper West Side)",
+  "hood": "Upper West Side",
+  "boro": "Manhattan",
+  "c": 3,
+  "w": 2,
+  "o": 2,
+  "l": 2,
+  "s": 2,
+  "cr": 2,
+  "f": 3,
+  "p": 2,
+  "tags": [
+   "brunch",
+   "work"
+  ],
+  "sum": "Hudson Valley roaster's UWS café with a real kitchen and room to linger.",
+  "love": [
+   "Full breakfast and lunch menu",
+   "Good for a long meeting or work block",
+   "Solid house coffee"
+  ],
+  "watch": [
+   "Weekend brunch rush",
+   "Wifi slows when full"
+  ],
+  "drink": null,
+  "b": 1,
+  "amb": [
+   "cozy",
+   "rustic"
+  ],
+  "n": 2,
+  "reviewed": true
+ },
+ {
+  "name": "The Hungarian Pastry Shop",
+  "hood": "Morningside Heights",
+  "boro": "Manhattan",
+  "c": 2,
+  "w": 0,
+  "o": 0,
+  "l": 1,
+  "s": 2,
+  "cr": 2,
+  "f": 2,
+  "p": 1,
+  "tags": [
+   "historic",
+   "no-wifi-focus",
+   "outdoor",
+   "study"
+  ],
+  "sum": "Columbia-adjacent institution where writers and grad students have hunkered down for decades. No wifi.",
+  "love": [
+   "Legendary for distraction-free writing",
+   "Huge pastry case, cheap",
+   "Sidewalk tables across from the cathedral"
+  ],
+  "watch": [
+   "No wifi (by design)",
+   "Coffee is basic",
+   "Older, cramped interior"
+  ],
+  "drink": "Cappuccino + a pastry from the case",
+  "b": 1,
+  "amb": [
+   "old-world",
+   "bohemian",
+   "worn-in"
+  ],
+  "n": 1,
+  "reviewed": true
+ },
+ {
+  "name": "Café Lalo",
+  "hood": "Upper West Side",
+  "boro": "Manhattan",
+  "c": 2,
+  "w": 0,
+  "o": 0,
+  "l": 0,
+  "s": 2,
+  "cr": 3,
+  "f": 3,
+  "p": 2,
+  "tags": [
+   "date",
+   "dessert",
+   "late"
+  ],
+  "sum": "Dessert-café made famous by You've Got Mail, with an enormous cake menu and late hours.",
+  "love": [
+   "Massive dessert selection",
+   "Open late, great for dates",
+   "Charming European feel"
+  ],
+  "watch": [
+   "Coffee is an afterthought",
+   "Touristy, waits on weekends",
+   "No laptops"
+  ],
+  "drink": "Cappuccino + cheesecake",
+  "b": 1,
+  "amb": [
+   "european",
+   "romantic",
+   "busy"
+  ],
+  "n": 3,
+  "reviewed": true
+ },
+ {
+  "name": "Lenox Coffee",
+  "hood": "Harlem",
+  "boro": "Manhattan",
+  "c": 3,
+  "w": 2,
+  "o": 2,
+  "l": 2,
+  "s": 2,
+  "cr": 2,
+  "f": 2,
+  "p": 2,
+  "tags": [
+   "community",
+   "work"
+  ],
+  "sum": "Harlem neighborhood anchor with a warm community feel and room to work.",
+  "love": [
+   "Welcoming, community vibe",
+   "Good for working",
+   "Reliable espresso drinks"
+  ],
+  "watch": [
+   "Peak-hour seating is tight",
+   "Food options are light"
+  ],
+  "drink": null,
+  "b": null,
+  "amb": [
+   "warm",
+   "community"
+  ],
+  "n": 2,
+  "reviewed": true
+ },
+ {
+  "name": "Remi Flower & Coffee",
+  "hood": "Midtown East",
+  "boro": "Manhattan",
+  "c": 3,
+  "w": null,
+  "o": null,
+  "l": null,
+  "s": 1,
+  "cr": 2,
+  "f": 2,
+  "p": 2,
+  "tags": [
+   "pretty",
+   "quick"
+  ],
+  "sum": "Flower shop and coffee bar in one. A pretty pocket of calm in Midtown East.",
+  "love": [
+   "Flowers everywhere, lovely to visit",
+   "Nice break from Midtown chaos",
+   "Good gift stop"
+  ],
+  "watch": [
+   "Small",
+   "Amenities unverified"
+  ],
+  "drink": null,
+  "b": null,
+  "amb": [
+   "floral",
+   "pretty",
+   "calm"
+  ],
+  "n": 1,
+  "reviewed": true
+ },
+ {
+  "name": "Ralph's Coffee (Fifth Ave)",
+  "hood": "Flatiron",
+  "boro": "Manhattan",
+  "c": 3,
+  "w": 0,
+  "o": 0,
+  "l": 0,
+  "s": 1,
+  "cr": 3,
+  "f": 2,
+  "p": 3,
+  "tags": [
+   "pretty"
+  ],
+  "sum": "Ralph Lauren's café: a preppy, green-and-white set piece with merch.",
+  "love": [
+   "Very photogenic",
+   "Good cold brew",
+   "Fun brand experience"
+  ],
+  "watch": [
+   "Pricey",
+   "Crowded with shoppers and tourists",
+   "Nowhere to work"
+  ],
+  "drink": "Cold brew",
+  "b": null,
+  "amb": [
+   "preppy",
+   "polished"
+  ],
+  "n": 3,
+  "reviewed": true
+ },
+ {
+  "name": "The Elk",
+  "hood": "West Village",
+  "boro": "Manhattan",
+  "c": 3,
+  "w": 1,
+  "o": 1,
+  "l": 1,
+  "s": 1,
+  "cr": 3,
+  "f": 3,
+  "p": 2,
+  "tags": [
+   "brunch"
+  ],
+  "sum": "West Village café-boutique with a sought-after breakfast menu.",
+  "love": [
+   "Excellent breakfast food",
+   "Charming, small-town feel",
+   "Good coffee to go"
+  ],
+  "watch": [
+   "Very small, weekend waits",
+   "Not a laptop spot"
+  ],
+  "drink": null,
+  "b": null,
+  "amb": [
+   "rustic",
+   "boutique"
+  ],
+  "n": 2,
+  "reviewed": true
+ },
+ {
+  "name": "Café Grumpy (Chelsea)",
+  "hood": "Chelsea",
+  "boro": "Manhattan",
+  "c": 3,
+  "w": null,
+  "o": 0,
+  "l": 0,
+  "s": 2,
+  "cr": 2,
+  "f": 2,
+  "p": 2,
+  "tags": [
+   "classic"
+  ],
+  "sum": "Long-running roaster café, historically a no-laptop zone (status to verify).",
+  "love": [
+   "Quality house-roasted coffee",
+   "Good baked goods",
+   "Conversation-friendly atmosphere"
+  ],
+  "watch": [
+   "Historically laptop-free",
+   "Outlets scarce"
+  ],
+  "drink": null,
+  "b": null,
+  "amb": [
+   "classic",
+   "calm"
+  ],
+  "n": 1,
+  "reviewed": true
+ },
+ {
+  "name": "Devoción",
+  "hood": "Williamsburg",
+  "boro": "Brooklyn",
+  "c": 5,
+  "w": 2,
+  "o": 1,
+  "l": 2,
+  "s": 3,
+  "cr": 3,
+  "f": 2,
+  "p": 2,
+  "tags": [
+   "espresso",
+   "pretty",
+   "work"
+  ],
+  "sum": "Colombian roaster with famously fresh beans in a soaring, skylit greenhouse of a space.",
+  "love": [
+   "Beans shipped fresh from Colombia",
+   "Gorgeous skylight and living wall",
+   "Lots of seating"
+  ],
+  "watch": [
+   "Weekends are packed",
+   "Outlets limited for its size",
+   "Gets loud when busy"
+  ],
+  "drink": null,
+  "b": 1,
+  "amb": [
+   "skylit",
+   "plant-filled",
+   "industrial"
+  ],
+  "n": 3,
+  "reviewed": true
+ },
+ {
+  "name": "SEY Coffee",
+  "hood": "Bushwick",
+  "boro": "Brooklyn",
+  "c": 5,
+  "w": 0,
+  "o": 0,
+  "l": 1,
+  "s": 2,
+  "cr": 2,
+  "f": 1,
+  "p": 2,
+  "tags": [
+   "espresso",
+   "pretty"
+  ],
+  "sum": "Light-roast specialists in a bright, airy Bushwick space. A temple for coffee nerds.",
+  "love": [
+   "World-class light roasts",
+   "Beautiful, sunlit space",
+   "Calm, focused vibe"
+  ],
+  "watch": [
+   "No wifi",
+   "Minimal food",
+   "Light roasts aren't for everyone"
+  ],
+  "drink": "Pour-over (light roast)",
+  "b": null,
+  "amb": [
+   "airy",
+   "minimalist",
+   "sunny"
+  ],
+  "n": 1,
+  "reviewed": true
+ },
+ {
+  "name": "Sweatshop",
+  "hood": "Williamsburg",
+  "boro": "Brooklyn",
+  "c": 4,
+  "w": null,
+  "o": null,
+  "l": 1,
+  "s": 1,
+  "cr": 3,
+  "f": 2,
+  "p": 2,
+  "tags": [
+   "brunch",
+   "espresso"
+  ],
+  "sum": "Australian-style café with a strong flat white and toasties.",
+  "love": [
+   "Excellent flat white",
+   "Aussie-style food",
+   "Cool, creative crowd"
+  ],
+  "watch": [
+   "Small and often packed",
+   "Amenities unverified"
+  ],
+  "drink": "Flat white",
+  "b": null,
+  "amb": [
+   "creative",
+   "compact"
+  ],
+  "n": 2,
+  "reviewed": true
+ },
+ {
+  "name": "Variety Coffee (Williamsburg)",
+  "hood": "Williamsburg",
+  "boro": "Brooklyn",
+  "c": 3,
+  "w": 2,
+  "o": 2,
+  "l": 2,
+  "s": 2,
+  "cr": 2,
+  "f": 1,
+  "p": 1,
+  "tags": [
+   "value",
+   "work"
+  ],
+  "sum": "The original Variety: a dependable, affordable spot where laptops are the norm.",
+  "love": [
+   "Good-value coffee",
+   "Laptop-friendly culture",
+   "Open long hours"
+  ],
+  "watch": [
+   "Wifi slows at peak",
+   "Basic food"
+  ],
+  "drink": null,
+  "b": null,
+  "amb": [
+   "casual",
+   "neighborhood"
+  ],
+  "n": 2,
+  "reviewed": true
+ },
+ {
+  "name": "Café Grumpy (Greenpoint)",
+  "hood": "Greenpoint",
+  "boro": "Brooklyn",
+  "c": 3,
+  "w": 2,
+  "o": 2,
+  "l": 2,
+  "s": 2,
+  "cr": 2,
+  "f": 2,
+  "p": 2,
+  "tags": [
+   "classic",
+   "work"
+  ],
+  "sum": "The Greenpoint original: roomy, relaxed, and good for settling in.",
+  "love": [
+   "Spacious, relaxed room",
+   "In-house roasted coffee",
+   "Good pastries"
+  ],
+  "watch": [
+   "Weekend crowds",
+   "Outlet seats limited"
+  ],
+  "drink": null,
+  "b": null,
+  "amb": [
+   "roomy",
+   "relaxed"
+  ],
+  "n": 1,
+  "reviewed": true
+ },
+ {
+  "name": "Odd Fox",
+  "hood": "Greenpoint",
+  "boro": "Brooklyn",
+  "c": 4,
+  "w": null,
+  "o": null,
+  "l": null,
+  "s": 1,
+  "cr": 2,
+  "f": 2,
+  "p": 2,
+  "tags": [
+   "espresso"
+  ],
+  "sum": "Small Greenpoint coffee bar with serious espresso.",
+  "love": [
+   "Quality espresso",
+   "Friendly neighborhood vibe"
+  ],
+  "watch": [
+   "Small",
+   "Amenities unverified"
+  ],
+  "drink": null,
+  "b": null,
+  "amb": [
+   "compact",
+   "friendly"
+  ],
+  "n": 2,
+  "reviewed": true
+ },
+ {
+  "name": "Bakeri",
+  "hood": "Greenpoint",
+  "boro": "Brooklyn",
+  "c": 3,
+  "w": 0,
+  "o": 0,
+  "l": 0,
+  "s": 1,
+  "cr": 3,
+  "f": 3,
+  "p": 2,
+  "tags": [
+   "brunch",
+   "pastry",
+   "pretty"
+  ],
+  "sum": "Norwegian-style bakery with rustic charm, known more for bread and pastries than coffee.",
+  "love": [
+   "Excellent breads and pastries",
+   "Charming rustic interior",
+   "Great brunch-adjacent stop"
+  ],
+  "watch": [
+   "Cramped",
+   "No laptops",
+   "Lines on weekends"
+  ],
+  "drink": null,
+  "b": null,
+  "amb": [
+   "rustic",
+   "nordic",
+   "charming"
+  ],
+  "n": 2,
+  "reviewed": true
+ },
+ {
+  "name": "Brooklyn Roasting Company",
+  "hood": "DUMBO",
+  "boro": "Brooklyn",
+  "c": 3,
+  "w": 2,
+  "o": 2,
+  "l": 2,
+  "s": 3,
+  "cr": 2,
+  "f": 2,
+  "p": 2,
+  "tags": [
+   "work"
+  ],
+  "sum": "Big, industrial DUMBO café with plenty of room and a steady laptop crowd.",
+  "love": [
+   "Lots of seating",
+   "Laptop-friendly",
+   "Near the waterfront"
+  ],
+  "watch": [
+   "Wifi can be inconsistent",
+   "Coffee is solid, not special"
+  ],
+  "drink": null,
+  "b": 1,
+  "amb": [
+   "industrial",
+   "roomy"
+  ],
+  "n": 2,
+  "reviewed": true
+ },
+ {
+  "name": "Burly Coffee",
+  "hood": "Clinton Hill",
+  "boro": "Brooklyn",
+  "c": 4,
+  "w": null,
+  "o": null,
+  "l": 1,
+  "s": 1,
+  "cr": 2,
+  "f": 2,
+  "p": 1,
+  "tags": [
+   "community",
+   "espresso"
+  ],
+  "sum": "Small neighborhood favorite with quality espresso and friendly regulars.",
+  "love": [
+   "Strong espresso",
+   "Community feel",
+   "Fair prices"
+  ],
+  "watch": [
+   "Small",
+   "Amenities unverified"
+  ],
+  "drink": null,
+  "b": null,
+  "amb": [
+   "neighborhood",
+   "compact"
+  ],
+  "n": 2,
+  "reviewed": true
+ },
+ {
+  "name": "Little Zelda",
+  "hood": "Crown Heights",
+  "boro": "Brooklyn",
+  "c": 4,
+  "w": 0,
+  "o": 0,
+  "l": 0,
+  "s": 1,
+  "cr": 2,
+  "f": 2,
+  "p": 1,
+  "tags": [
+   "espresso",
+   "quick"
+  ],
+  "sum": "Tiny, charming Franklin Ave espresso bar.",
+  "love": [
+   "Excellent espresso for the price",
+   "Friendly baristas",
+   "Cute and cozy"
+  ],
+  "watch": [
+   "Very little seating",
+   "No laptops"
+  ],
+  "drink": null,
+  "b": null,
+  "amb": [
+   "tiny",
+   "charming"
+  ],
+  "n": 1,
+  "reviewed": true
+ },
+ {
+  "name": "Breukelen Coffee House",
+  "hood": "Crown Heights",
+  "boro": "Brooklyn",
+  "c": 3,
+  "w": 2,
+  "o": 2,
+  "l": 2,
+  "s": 2,
+  "cr": 2,
+  "f": 2,
+  "p": 1,
+  "tags": [
+   "community",
+   "work"
+  ],
+  "sum": "Spacious, community-minded café on Franklin Ave, good for working.",
+  "love": [
+   "Room to spread out",
+   "Laptop-friendly",
+   "Community vibe"
+  ],
+  "watch": [
+   "Coffee is good, not a destination"
+  ],
+  "drink": null,
+  "b": null,
+  "amb": [
+   "roomy",
+   "community"
+  ],
+  "n": 2,
+  "reviewed": true
+ },
+ {
+  "name": "Café Regular du Nord",
+  "hood": "Park Slope",
+  "boro": "Brooklyn",
+  "c": 4,
+  "w": 0,
+  "o": 0,
+  "l": 0,
+  "s": 1,
+  "cr": 2,
+  "f": 2,
+  "p": 2,
+  "tags": [
+   "date",
+   "espresso",
+   "pretty"
+  ],
+  "sum": "Tiny European-style café with old-world charm.",
+  "love": [
+   "Romantic, European feel",
+   "Quality espresso",
+   "Great for a quick date"
+  ],
+  "watch": [
+   "Small",
+   "Not for working"
+  ],
+  "drink": null,
+  "b": null,
+  "amb": [
+   "european",
+   "tiny",
+   "romantic"
+  ],
+  "n": 1,
+  "reviewed": true
+ },
+ {
+  "name": "Café Beit",
+  "hood": "Bushwick",
+  "boro": "Brooklyn",
+  "c": 3,
+  "w": 2,
+  "o": 2,
+  "l": 2,
+  "s": 2,
+  "cr": 2,
+  "f": 2,
+  "p": 1,
+  "tags": [
+   "outdoor",
+   "work"
+  ],
+  "sum": "Laid-back Bushwick café with a backyard and plenty of laptop real estate.",
+  "love": [
+   "Easy to work for hours",
+   "Backyard seating",
+   "Good prices"
+  ],
+  "watch": [
+   "Gets busy afternoons"
+  ],
+  "drink": null,
+  "b": null,
+  "amb": [
+   "laid-back",
+   "backyard"
+  ],
+  "n": 2,
+  "reviewed": true
+ },
+ {
+  "name": "Café Erzulie",
+  "hood": "Bushwick",
+  "boro": "Brooklyn",
+  "c": 3,
+  "w": null,
+  "o": null,
+  "l": null,
+  "s": 2,
+  "cr": 2,
+  "f": 2,
+  "p": 2,
+  "tags": [
+   "caribbean",
+   "community",
+   "date",
+   "late",
+   "outdoor"
+  ],
+  "sum": "Haitian-inspired café by day, bar and party space by night, with a garden out back.",
+  "love": [
+   "Unique Caribbean flavors",
+   "Lush back garden",
+   "Great day-to-night spot"
+  ],
+  "watch": [
+   "Evenings get loud",
+   "Amenities unverified"
+  ],
+  "drink": null,
+  "b": null,
+  "amb": [
+   "tropical",
+   "garden",
+   "lively"
+  ],
+  "n": 3,
+  "reviewed": true
+ },
+ {
+  "name": "Antilles Cafe",
+  "hood": "Flatbush",
+  "boro": "Brooklyn",
+  "c": 4,
+  "w": null,
+  "o": null,
+  "l": null,
+  "s": 1,
+  "cr": 2,
+  "f": 2,
+  "p": 2,
+  "tags": [
+   "caribbean",
+   "community"
+  ],
+  "sum": "Flatbush café recently added to Time Out's best-coffee list.",
+  "love": [
+   "Recognized by Time Out (Oct 2026)",
+   "Caribbean-influenced menu",
+   "Neighborhood gem"
+  ],
+  "watch": [
+   "Amenities unverified"
+  ],
+  "drink": null,
+  "b": null,
+  "amb": [
+   "neighborhood",
+   "warm"
+  ],
+  "n": 2,
+  "reviewed": true
+ },
+ {
+  "name": "Apartment Ra'el",
+  "hood": "Bed-Stuy",
+  "boro": "Brooklyn",
+  "c": 4,
+  "w": null,
+  "o": null,
+  "l": null,
+  "s": 1,
+  "cr": 2,
+  "f": 2,
+  "p": 2,
+  "tags": [
+   "concept-store",
+   "pretty"
+  ],
+  "sum": "Concept store and coffee shop in Bed-Stuy, newly on Time Out's best-coffee list.",
+  "love": [
+   "Shopping and coffee in one",
+   "Design-forward space",
+   "Recognized by Time Out (Oct 2026)"
+  ],
+  "watch": [
+   "Amenities unverified"
+  ],
+  "drink": null,
+  "b": null,
+  "amb": [
+   "design-forward",
+   "curated"
+  ],
+  "n": 1,
+  "reviewed": true
+ },
+ {
+  "name": "Win Son Bakery",
+  "hood": "Williamsburg",
+  "boro": "Brooklyn",
+  "c": 3,
+  "w": 1,
+  "o": 1,
+  "l": 0,
+  "s": 2,
+  "cr": 3,
+  "f": 3,
+  "p": 2,
+  "tags": [
+   "asian",
+   "brunch",
+   "taiwanese"
+  ],
+  "sum": "Taiwanese-American bakery-café with an all-day menu people line up for.",
+  "love": [
+   "Destination-worthy food (mochi donuts, scallion pancakes)",
+   "Interesting drink menu",
+   "Lively atmosphere"
+  ],
+  "watch": [
+   "Long weekend waits",
+   "Not a laptop spot"
+  ],
+  "drink": "Mochi donut + a latte",
+  "b": null,
+  "amb": [
+   "bright",
+   "lively"
+  ],
+  "n": 3,
+  "reviewed": true
+ },
+ {
+  "name": "Hungry Ghost (Fort Greene)",
+  "hood": "Fort Greene",
+  "boro": "Brooklyn",
+  "c": 3,
+  "w": 2,
+  "o": 2,
+  "l": 2,
+  "s": 2,
+  "cr": 2,
+  "f": 2,
+  "p": 2,
+  "tags": [
+   "work"
+  ],
+  "sum": "Local chain serving Stumptown-style espresso, with a dependable work-friendly setup.",
+  "love": [
+   "Consistent coffee",
+   "Comfortable for working",
+   "Good pastries"
+  ],
+  "watch": [
+   "Peak-time seating is tight"
+  ],
+  "drink": null,
+  "b": null,
+  "amb": [
+   "neighborhood",
+   "relaxed"
+  ],
+  "n": 2,
+  "reviewed": true
+ },
+ {
+  "name": "Sit & Wonder",
+  "hood": "Prospect Heights",
+  "boro": "Brooklyn",
+  "c": 3,
+  "w": 2,
+  "o": 1,
+  "l": 2,
+  "s": 2,
+  "cr": 2,
+  "f": 2,
+  "p": 1,
+  "tags": [
+   "outdoor",
+   "work"
+  ],
+  "sum": "Neighborhood café on Washington Ave with a backyard and a low-key regulars crowd.",
+  "love": [
+   "Backyard seating",
+   "Laid-back vibe",
+   "Fair prices"
+  ],
+  "watch": [
+   "Few outlets",
+   "Small indoor space"
+  ],
+  "drink": null,
+  "b": null,
+  "amb": [
+   "backyard",
+   "laid-back"
+  ],
+  "n": 2,
+  "reviewed": true
+ },
+ {
+  "name": "Café con Libros",
+  "hood": "Crown Heights",
+  "boro": "Brooklyn",
+  "c": 2,
+  "w": null,
+  "o": 0,
+  "l": 1,
+  "s": 1,
+  "cr": 2,
+  "f": 1,
+  "p": 1,
+  "tags": [
+   "bookstore",
+   "community"
+  ],
+  "sum": "Intersectional feminist bookstore and café, as much a community space as a coffee stop.",
+  "love": [
+   "Great curated bookstore",
+   "Mission-driven community space",
+   "Cozy"
+  ],
+  "watch": [
+   "Small",
+   "Coffee is secondary to books"
+  ],
+  "drink": null,
+  "b": null,
+  "amb": [
+   "bookish",
+   "cozy"
+  ],
+  "n": 1,
+  "reviewed": true
+ },
+ {
+  "name": "Sweetleaf",
+  "hood": "Long Island City",
+  "boro": "Queens",
+  "c": 4,
+  "w": 2,
+  "o": 1,
+  "l": 1,
+  "s": 2,
+  "cr": 2,
+  "f": 2,
+  "p": 2,
+  "tags": [
+   "classic",
+   "espresso"
+  ],
+  "sum": "LIC pioneer known for its Rocket Fuel iced coffee and cozy, record-filled room.",
+  "love": [
+   "Rocket Fuel cold coffee is iconic",
+   "Cozy, characterful room",
+   "Quality espresso"
+  ],
+  "watch": [
+   "Limited outlets",
+   "Busy with the after-work crowd"
+  ],
+  "drink": "Rocket Fuel (signature iced coffee)",
+  "b": null,
+  "amb": [
+   "cozy",
+   "record-filled",
+   "retro"
+  ],
+  "n": 2,
+  "reviewed": true
+ },
+ {
+  "name": "Kinship Coffee",
+  "hood": "Astoria",
+  "boro": "Queens",
+  "c": 4,
+  "w": 2,
+  "o": 2,
+  "l": 2,
+  "s": 2,
+  "cr": 2,
+  "f": 2,
+  "p": 2,
+  "tags": [
+   "espresso",
+   "work"
+  ],
+  "sum": "Astoria's specialty favorite, roasting in-house with a friendly, laptop-OK room.",
+  "love": [
+   "Excellent in-house roasts",
+   "Welcoming staff",
+   "Good for working"
+  ],
+  "watch": [
+   "Fills up on weekends"
+  ],
+  "drink": null,
+  "b": null,
+  "amb": [
+   "bright",
+   "friendly"
+  ],
+  "n": 2,
+  "reviewed": true
+ },
+ {
+  "name": "Milk & Pull",
+  "hood": "Ridgewood",
+  "boro": "Queens",
+  "c": 3,
+  "w": 2,
+  "o": 1,
+  "l": 2,
+  "s": 2,
+  "cr": 2,
+  "f": 2,
+  "p": 1,
+  "tags": [
+   "value",
+   "work"
+  ],
+  "sum": "Neighborhood café straddling Ridgewood and Bushwick, cheap and cheerful.",
+  "love": [
+   "Good value",
+   "Easy neighborhood hang",
+   "Friendly service"
+  ],
+  "watch": [
+   "Few outlets"
+  ],
+  "drink": null,
+  "b": null,
+  "amb": [
+   "casual",
+   "neighborhood"
+  ],
+  "n": 2,
+  "reviewed": true
+ },
+ {
+  "name": "Topos Bookstore Café",
+  "hood": "Ridgewood",
+  "boro": "Queens",
+  "c": 3,
+  "w": null,
+  "o": null,
+  "l": 1,
+  "s": 1,
+  "cr": 1,
+  "f": 1,
+  "p": 1,
+  "tags": [
+   "bookstore",
+   "no-wifi-focus"
+  ],
+  "sum": "Used bookstore with a small café inside. Quiet, browse-y, slow.",
+  "love": [
+   "Lovely used bookstore",
+   "Calm and quiet",
+   "Cheap coffee"
+  ],
+  "watch": [
+   "Small café area",
+   "Amenities unverified"
+  ],
+  "drink": null,
+  "b": null,
+  "amb": [
+   "bookish",
+   "quiet"
+  ],
+  "n": 1,
+  "reviewed": true
+ }
+]

@@ -1,0 +1,24 @@
+# Every Monday: re-pull NYC Open Data so new shops appear and closed ones drop off.
+# Commits data/shops.json, which triggers a fresh Vercel deploy.
+name: Refresh shop data
+on:
+  schedule: [{ cron: "17 10 * * 1" }]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - run: node scripts/ingest.mjs
+        env: { SOCRATA_APP_TOKEN: "${{ secrets.SOCRATA_APP_TOKEN }}" }
+      - run: node scripts/build.mjs
+      - run: |
+          git config user.name "data-bot"
+          git config user.email "data-bot@users.noreply.github.com"
+          git add data/shops.json data/ingest-report.json
+          git diff --staged --quiet || git commit -m "Weekly NYC Open Data refresh"
+          git push
